@@ -64,7 +64,7 @@ public class MotorTest {
         Assertions.assertThat(temperatura > temperaturaSubida).isTrue();
     }
 
-    @Test
+    //@Test
   /*  public void noBajarPotenciaANegativa (){
         Motor m = new Motor(0.1,2);
         int potenciaMantenida = m.getPotencia();
